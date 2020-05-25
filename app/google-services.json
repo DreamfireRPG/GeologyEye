@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "414611018170",
+    "firebase_url": "https://geology-eye.firebaseio.com",
+    "project_id": "geology-eye",
+    "storage_bucket": "geology-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414611018170:android:6a61c6c3e24169dc978d83",
+        "android_client_info": {
+          "package_name": "explosioncoding.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414611018170-c78if72sc5udptahaal48ik2ev2rcg3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "explosioncoding.firstapp",
+            "certificate_hash": "67c07cb5b2ba8a63e692b1a260db960c3ca5dbac"
+          }
+        },
+        {
+          "client_id": "414611018170-8h4n9k7cprgs814nqsek99cpmn0mkp77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYkuEMok3_Rwy5WO5v1TqAjy7RrEq73Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414611018170-8h4n9k7cprgs814nqsek99cpmn0mkp77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414611018170:android:698c035f685698a3978d83",
+        "android_client_info": {
+          "package_name": "geologyeye.explosioncoding.com.geologyeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414611018170-4o1l35vpq89kl62prrsi129vdeha33he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "geologyeye.explosioncoding.com.geologyeye",
+            "certificate_hash": "67c07cb5b2ba8a63e692b1a260db960c3ca5dbac"
+          }
+        },
+        {
+          "client_id": "414611018170-8h4n9k7cprgs814nqsek99cpmn0mkp77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYkuEMok3_Rwy5WO5v1TqAjy7RrEq73Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414611018170-8h4n9k7cprgs814nqsek99cpmn0mkp77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
